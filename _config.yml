@@ -1,7 +1,7 @@
 # Site settings
 title:          Bar Stories
 description:    "InfoSec Stories and Discoveries"
-baseurl:        "/post"
+baseurl:        "/"
 url:            "https://tiku5.github.io"
 
 # Google Analytics

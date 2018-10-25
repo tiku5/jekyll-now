@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. insecu.re or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:insecu.re
+url:https://tiku5.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)

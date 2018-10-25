@@ -12,4 +12,4 @@ Im noob coder, but im working on it!
 
 ### Contact me
 
-[Twitter @L2U](https://twiter.com/l2u)
+[Twitter @L2U](https://twitter.com/l2u)

@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Im a young guy enthuiastic on infosec, binary explotation mainly.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Im noob coder, but im working on it!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Twitter @L2U](https://twiter.com/l2u)

@@ -1,6 +1,6 @@
 # Site settings
-title:          Bar Stories
-description:    "InfoSec Stories and Discoveries"
+title:          MicroSwitch
+description:    "Infosec through binary explotation, and some fuzzing & coding."
 baseurl:        "/"
 url:            "https://tiku5.github.io"
 

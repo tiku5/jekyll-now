@@ -5,6 +5,6 @@ title: Hello World\n
 
 This space is for me to blog about binary explotation and lots of type of techniques. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Im gonna focus on Hacking well known books like The ShellCoders HandBook, and The Art of Explotation: Hacking. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Hope you like my content , and see you the next time! :)

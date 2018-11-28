@@ -1,6 +1,6 @@
 # Site settings
-title:          MicroSwitch
-description:    "Infosec through binary explotation, and some fuzzing & coding."
+title:          DrugSec
+description:    "IT, Infosec, and BioHacking"
 baseurl:        "/"
 url:            "https://tiku5.github.io"
 
@@ -27,7 +27,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
-  # - jemoji #Uncomment this to allow emoji in your post
+  - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
 permalink:      /:year-:month-:day/:title

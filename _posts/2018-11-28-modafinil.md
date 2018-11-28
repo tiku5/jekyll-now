@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Modafinil"
+title:  "[Nootripics] Modafinil"
 author: "Bar"
 ---
  ![Provigil](http://insecu.re/images/provigil.png)

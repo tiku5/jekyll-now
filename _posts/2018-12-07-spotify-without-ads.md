@@ -11,9 +11,9 @@ title: Spotify Without Ads\n
 
 Here I bring you a method to listen spotify without ads using a free account in your Web Browser Player.
 
-First, Install [uBlock](https://www.ublock.org/) then go to the Icon, then "Open the dashboard" and go to My filters.
+First, Install [uBlock](https://www.ublock.org/) then go to the Icon in the browser, then "Open the dashboard" and go to My filters snap.
 
-There you can paste this spotifys media filters to not listen anymore the anoyning Ads.
+There you can paste this spotify's media filters to not listen anymore to the anoyning Ads.
 
 <code>
 /mp3-ad/*$domain=open.spotify.com|play.spotify.com

@@ -6,7 +6,7 @@ title: Spotify<web> Without Ads\n
 
 
 ![Spotify Image](/images/1453753836-open-graph-default.jpg)
-
+<br><br>
 
 
 Here I bring you a method to listen spotify without ads using a free account in your Web Browser Player.

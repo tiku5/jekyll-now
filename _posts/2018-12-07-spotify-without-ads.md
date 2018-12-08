@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spotify<web> Without Ads\n
+title: Spotify Without Ads\n
 ---
 
 
@@ -17,8 +17,9 @@ There you can paste this spotifys media filters to not listen anymore the anoyni
 
 <code>
 /mp3-ad/*$domain=open.spotify.com|play.spotify.com
+||audio-fa.scdn.co/audio/$media,domain=open.spotify.com|play.spotify.com
 
-||audio-fa.scdn.co/audio/$media,domain=open.spotify.com|play.spotify.com</code>
+</code>
 
 See ya the next time.
 

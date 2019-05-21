@@ -13,10 +13,10 @@ You only will need the ID of the post, be sure its a video, not a image. Eitherw
 
 Script: https://github.com/tiku5/instagram_video_downloader/blob/master/ig_down.py
 
-{% highlight python %}
+<b>
 ++++ Instagram Video Downloader by Bar. ++++
 Uso: ./ig_down.py id_post name_local_video.
-{% endhighlight %}
+</b>
 
 <br><br>
 

@@ -23,7 +23,8 @@ Uso: ./ig_down.py id_post name_local_video.
 If we want to download this video => https://www.instagram.com/p/Bxu2132IoII/, we follow the next steps.
 
 
-<b>> python3 ./ig_down.py Bxu2132IoII videodownload.mp4<br>
+<b>> python3 ./ig_down.py <u>Bxu2132IoII</u> videodownload.mp4<br><br>
+
 ++++ Instagram Video Downloader by Bar. ++++<br>
 [*] Link Video Found/Encontrado!<br>
 [+] HTTP Response:200<br>

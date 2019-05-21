@@ -14,7 +14,7 @@ You only will need the ID of the post, be sure its a video, not a image. Eitherw
 Script: https://github.com/tiku5/instagram_video_downloader/blob/master/ig_down.py
 
 <b>
-++++ Instagram Video Downloader by Bar. ++++
+++++ Instagram Video Downloader by Bar. ++++ <br>
 Uso: ./ig_down.py id_post name_local_video.
 </b>
 
@@ -22,13 +22,13 @@ Uso: ./ig_down.py id_post name_local_video.
 
 If we want to download this video => https://www.instagram.com/p/Bxu2132IoII/, we follow the next steps.
 
-{% highlight python %}
-> python3 ./ig_down.py Bxu2132IoII videodownload.mp4
-++++ Instagram Video Downloader by Bar. ++++
-[*] Link Video Found/Encontrado!
-[+] HTTP Response:200
-[+] Downloading/Bajando Video!
+
+<b>> python3 ./ig_down.py Bxu2132IoII videodownload.mp4</br>
+++++ Instagram Video Downloader by Bar. ++++</br>
+[*] Link Video Found/Encontrado!</br>
+[+] HTTP Response:200</br>
+[+] Downloading/Bajando Video!</br>
 Video in:/home/nano/Desktop/8/videodownload.mp4
-{% endhighlight %}
+</b>
 
 Then open your download mp4 =)

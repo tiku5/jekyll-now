@@ -11,7 +11,7 @@ A little program coded by me and helped with the Regex by *someone* , its a simp
 
 You only will need the ID of the post, be sure its a video, not a image. Eitherwise the script will tell you if its a IMG or MP4.
 
-Python Instagram Video Downloader Bar Script[https://github.com/tiku5/instagram_video_downloader/blob/master/ig_down.py]
+[Python Instagram Video Downloader Bar Script](https://github.com/tiku5/instagram_video_downloader/blob/master/ig_down.py)
 
 <b>
 ++++ Instagram Video Downloader by Bar. ++++ <br>
